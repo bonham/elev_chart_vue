@@ -14,7 +14,8 @@
 import { BRow, BCol } from 'bootstrap-vue'
 
 export default {
-  name: 'Home',
+  name: 'Page2',
+  title: 'Page2',
   components: {
     BRow,
     BCol
