@@ -7,8 +7,8 @@
 
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-          <b-nav-item to="/page2">Page1</b-nav-item>
-          <b-nav-item to="/page3">Page2</b-nav-item>
+          <b-nav-item to="/page2">Page2</b-nav-item>
+          <b-nav-item to="/page3">Page3</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
