@@ -1,12 +1,12 @@
 <template>
-<b-row>
-  <b-col>
-    Content
-  </b-col>
-  <b-col>
-    Content
-  </b-col>
-</b-row>
+  <b-row>
+    <b-col>
+      Content
+    </b-col>
+    <b-col>
+      Content
+    </b-col>
+  </b-row>
 </template>
 
 <script>
