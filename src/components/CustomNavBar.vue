@@ -1,14 +1,27 @@
 <template>
   <div>
-    <b-navbar toggleable="sm" type="dark" variant="info">
-      <b-navbar-brand to="/">Elevation</b-navbar-brand>
+    <b-navbar
+      toggleable="sm"
+      type="dark"
+      variant="info"
+    >
+      <b-navbar-brand to="/">
+        Elevation
+      </b-navbar-brand>
 
-      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+      <b-navbar-toggle target="nav-collapse" />
 
-      <b-collapse id="nav-collapse" is-nav>
+      <b-collapse
+        id="nav-collapse"
+        is-nav
+      >
         <b-navbar-nav>
-          <b-nav-item to="/page2">Page2</b-nav-item>
-          <b-nav-item to="/page3">Page3</b-nav-item>
+          <b-nav-item to="/page2">
+            Page2
+          </b-nav-item>
+          <b-nav-item to="/page3">
+            Page3
+          </b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
